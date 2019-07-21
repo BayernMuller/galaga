@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CBullet" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAIAAAAAAAAAAACoAAAAAAAAAIAAAAAAgAAAIAA=</HashCode>
+      <FileName>Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemyBee" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EnemyBee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemyButterfly" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>EnemyButterfly.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemyCatcher" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAEAAAAAAA=</HashCode>
+      <FileName>EnemyCatcher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemyShip" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAJIAAAAAAIQAAABgAAAAEAAEAgAAAAAAAAAA=</HashCode>
+      <FileName>EnemyShip.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGalagaMap" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QACAAAEEQSAAwAEAQAIAAAAQQABCAAAggAAkAQAAAIA=</HashCode>
+      <FileName>GalagaMap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMathVector" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAJAAAECAAIAEBEBAIIQAAAAAAAAEAAABgAAACAAE=</HashCode>
+      <FileName>MathVector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyShip" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>MyShip.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CShip" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAgAgAAAAIQAAAAAAAAEA=</HashCode>
+      <FileName>Ship.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStage" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAECAIAAEQAAA=</HashCode>
+      <FileName>Stage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
